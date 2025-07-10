@@ -132,6 +132,90 @@ const sampleProducts = [
     brand: 'MilletMakers',
     image: 'https://images.unsplash.com/photo-1519864600265-abb23847ef2c?ixid=millet',
     description: 'Gluten-free, whole grain organic millet.'
+  },
+  {
+    name: 'Organic Pistachios',
+    brand: 'PistaFarm',
+    image: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixid=pistachios',
+    description: 'Premium, unsalted organic pistachios.'
+  },
+  {
+    name: 'Organic Walnuts',
+    brand: 'WalnutWorld',
+    image: 'https://images.unsplash.com/photo-1519864600265-abb23847ef2c?ixid=walnuts',
+    description: 'Omega-3 rich, crunchy organic walnuts.'
+  },
+  {
+    name: 'Organic Hazelnut Spread',
+    brand: 'HazelDelight',
+    image: 'https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?ixid=hazelnutspread',
+    description: 'Smooth, chocolatey organic hazelnut spread.'
+  },
+  {
+    name: 'Organic Barley',
+    brand: 'BarleyBarn',
+    image: 'https://images.unsplash.com/photo-1502741338009-cac2772e18bc?ixid=barley',
+    description: 'Whole grain, fiber-rich organic barley.'
+  },
+  {
+    name: 'Organic Muesli',
+    brand: 'MuesliMix',
+    image: 'https://images.unsplash.com/photo-1519864600265-abb23847ef2c?ixid=muesli',
+    description: 'Nutritious, fruit-packed organic muesli.'
+  },
+  {
+    name: 'Organic Safflower Oil',
+    brand: 'SaffyOil',
+    image: 'https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?ixid=saffloweroil',
+    description: 'Light, heart-healthy organic safflower oil.'
+  },
+  {
+    name: 'Organic Raisins',
+    brand: 'RaisinRoots',
+    image: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixid=raisins',
+    description: 'Sweet, sun-dried organic raisins.'
+  },
+  {
+    name: 'Organic Buckwheat',
+    brand: 'BuckwheatBest',
+    image: 'https://images.unsplash.com/photo-1519864600265-abb23847ef2c?ixid=buckwheat',
+    description: 'Gluten-free, protein-rich organic buckwheat.'
+  },
+  {
+    name: 'Organic Coconut Sugar',
+    brand: 'CocoSweet',
+    image: 'https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?ixid=coconutsugar',
+    description: 'Low-glycemic, mineral-rich organic coconut sugar.'
+  },
+  {
+    name: 'Organic Red Lentils',
+    brand: 'RedLentilFarm',
+    image: 'https://images.unsplash.com/photo-1502741338009-cac2772e18bc?ixid=redlentils',
+    description: 'Quick-cooking, protein-rich organic red lentils.'
+  },
+  {
+    name: 'Organic Sun-Dried Tomatoes',
+    brand: 'TomatoSun',
+    image: 'https://images.unsplash.com/photo-1519864600265-abb23847ef2c?ixid=sundriedtomatoes',
+    description: 'Tangy, flavorful organic sun-dried tomatoes.'
+  },
+  {
+    name: 'Organic Edamame',
+    brand: 'GreenPod',
+    image: 'https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?ixid=edamame',
+    description: 'Protein-packed, fresh organic edamame.'
+  },
+  {
+    name: 'Organic Blueberries',
+    brand: 'BlueBerryHill',
+    image: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixid=blueberries',
+    description: 'Antioxidant-rich, sweet organic blueberries.'
+  },
+  {
+    name: 'Organic Amaranth',
+    brand: 'AmaranthFields',
+    image: 'https://images.unsplash.com/photo-1519864600265-abb23847ef2c?ixid=amaranth',
+    description: 'Ancient grain, gluten-free organic amaranth.'
   }
 ];
 
